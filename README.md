@@ -1,0 +1,3 @@
+# springboot_nyumon_4
+
+lambokが仕事してなくてかなり沼った。けどおかげでth:objectとth:fieldに詳しくなった気がする
